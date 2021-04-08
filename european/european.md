@@ -5,5 +5,8 @@ Select a specific European food:
 ## [British](british.md)
 ## [French](french.md)
 ## [Italian](italian.md)
+## [Greek](greek.md)
+## [Mediterranean](mediterranean.md)
+
 ---
 [Start Over](../home.md)
